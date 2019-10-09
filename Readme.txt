@@ -1,3 +1,5 @@
+原文链接：https://ieeexplore.ieee.org/document/8545664
+
 Lip Reading using Neural Network and Deep Learning 
 
 Undergraduate - Senior Capstone project for Computer Science Department at Earlham College
